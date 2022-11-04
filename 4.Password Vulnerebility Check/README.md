@@ -1,0 +1,1 @@
+This program checks the vulnerebility of a given password using the classic brute-force algorithm.
