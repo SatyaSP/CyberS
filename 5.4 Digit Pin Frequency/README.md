@@ -1,0 +1,1 @@
+This program checks how common a 4 digit pin is by comaring it with a sorted data set of pins and their frequency score.
