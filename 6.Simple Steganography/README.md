@@ -1,6 +1,6 @@
-This program hides secrete text messages in images. A key is required to encrypt and decrypt the message. \n
+This program hides secrete text messages in images. A key is required to encrypt and decrypt the message. <br />
 
-pyhton modules required : \n
-1.opencv-python (to read/write/manipulate image) \n
-2.os (to save or create file) \n
-3.string \n
+pyhton modules required : <br />
+1.opencv-python (to read/write/manipulate image) <br />
+2.os (to save or create file) <br />
+3.string <br />
